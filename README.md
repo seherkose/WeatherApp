@@ -2,7 +2,7 @@
 A simple weather app that uses Protocol & Delegates for handling user interactions, performs network requests with URLSession, parses JSON data, and utilizes CoreLocation for location-based weather information with user Authorization.
 
 ## Features
-View current weather conditions based on the user's location. Search for weather conditions in different cities. Display temperature, and other relevant data.Intuitive user interface with a clean design.
+View current weather conditions based on the user's location. Search for weather conditions in different cities. Display temperature, and other relevant data. Intuitive user interface with a clean design.
 
 ## How It Works
 * The app starts by fetching the user's location using CoreLocation.
